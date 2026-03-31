@@ -1,4 +1,4 @@
-# Hi, I'm Abdullah Usman 👋
+# Hi, I'm Abdullah Usman 
 
 CS student at FAST-NUCES | Building real-world software with C++, Python, JS, Kotlin, NLP, and RAG
 
