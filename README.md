@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Abdullah Usman 👋
 
-<!--
-**AbdullahUsman0/AbdullahUsman0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at FAST-NUCES | Building real-world software with C++, Python, JS, Kotlin, NLP, and RAG
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python, C++
+- JavaScript, Kotlin
+- AI/ML: Transformers, NER, RAG
+- Databases: SQL
+- Tools: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- RAHATAI-multilingual-crisis-response
+- CrisisConnect
+- SkillSwap
+- ConnectPlus
+- cpp-dsa-implementations
+
+## Get in Touch
+- GitHub: https://github.com/AbdullahUsman0
