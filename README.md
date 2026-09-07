@@ -79,6 +79,7 @@ Most recently I built **[ParityLens](https://github.com/AbdullahUsman0/parity-ch
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-abdullahmalick168%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:abdullahmalick168@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdullah--usman--fast-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/abdullah-usman-fast/)
 [![GitHub](https://img.shields.io/badge/GitHub-AbdullahUsman0-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/AbdullahUsman0)
 
 </div>
