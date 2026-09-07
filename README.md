@@ -61,18 +61,6 @@ Most recently I built **[ParityLens](https://github.com/AbdullahUsman0/parity-ch
 
 </div>
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-[![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahUsman0&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/AbdullahUsman0)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahUsman0&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/AbdullahUsman0)
-
-</div>
-
----
 
 ### Get In Touch
 
