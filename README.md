@@ -49,19 +49,59 @@ Most recently I built **[ParityLens](https://github.com/AbdullahUsman0/parity-ch
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=py,cpp,ts,js,kt,java&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=kt&theme=dark" width="48" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" alt="Java" />
+</p>
 
 **AI & ML**
 
-[![AI & ML](https://skillicons.dev/icons?i=pytorch,tensorflow,langchain,langgraph,huggingface,sklearn&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=langchain&theme=dark" width="48" alt="LangChain" />
+  <img src="https://skillicons.dev/icons?i=langgraph&theme=dark" width="48" alt="LangGraph" />
+  <img src="https://skillicons.dev/icons?i=huggingface&theme=dark" width="48" alt="Hugging Face" />
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" alt="scikit-learn" />
+</p>
 
 **Data & MLOps**
 
-[![Data & MLOps](https://skillicons.dev/icons?i=pandas,numpy,opencv,matplotlib,qdrant,mlflow&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="48" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="48" alt="NumPy" />
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" alt="OpenCV" />
+  <img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" width="48" alt="Matplotlib" />
+  <img src="https://skillicons.dev/icons?i=qdrant&theme=dark" width="48" alt="Qdrant" />
+  <img src="https://skillicons.dev/icons?i=mlflow&theme=dark" width="48" alt="MLflow" />
+</p>
+
+**Automation & No-Code**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=n8n&theme=dark" width="48" alt="n8n" />
+  <img src="https://skillicons.dev/icons?i=make&theme=dark" width="48" alt="Make" />
+  <img src="https://skillicons.dev/icons?i=highlevel&theme=dark" width="48" alt="GoHighLevel" />
+  <img src="https://skillicons.dev/icons?i=zapier&theme=dark" width="48" alt="Zapier" />
+  <img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48" alt="Notion" />
+  <img src="https://skillicons.dev/icons?i=airtable&theme=dark" width="48" alt="Airtable" />
+</p>
 
 **Web & Tools**
 
-[![Web & Tools](https://skillicons.dev/icons?i=react,nodejs,nextjs,mysql,docker,github,linux&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" alt="Linux" />
+</p>
 
 </div>
 
