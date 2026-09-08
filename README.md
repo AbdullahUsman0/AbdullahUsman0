@@ -51,9 +51,13 @@ Most recently I built **[ParityLens](https://github.com/AbdullahUsman0/parity-ch
 
 [![Languages](https://skillicons.dev/icons?i=py,cpp,ts,js,kt,java&theme=dark)](https://skillicons.dev)
 
-**AI & Data**
+**AI & ML**
 
-[![AI & Data](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,langchain,langgraph,huggingface,pandas,numpy,opencv,matplotlib&theme=dark)](https://skillicons.dev)
+[![AI & ML](https://skillicons.dev/icons?i=pytorch,tensorflow,langchain,langgraph,huggingface,sklearn&theme=dark)](https://skillicons.dev)
+
+**Data & MLOps**
+
+[![Data & MLOps](https://skillicons.dev/icons?i=pandas,numpy,opencv,matplotlib,qdrant,mlflow&theme=dark)](https://skillicons.dev)
 
 **Web & Tools**
 
